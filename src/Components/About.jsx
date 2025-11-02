@@ -143,13 +143,13 @@ function About() {
               <div className="pl-3 sm:pl-5 space-y-2 sm:space-y-4">
                 <div className="border-l-2 border-pink-200 pl-3 sm:pl-4 py-1 sm:py-2 hover:border-pink-400 transition">
                   <p className="font-semibold text-gray-800 text-base">Class XII </p>
-                  <p className="text-gray-600">[Shashank Lal]</p>
+                  <p className="text-gray-600">Shashank Lal</p>
                   <p className="text-xs sm:text-sm text-gray-500 italic">Board: CBSE • Year: 2021</p>
                   <p className="text-xs sm:text-sm text-pink-600 font-medium mt-1">Percentage: 85% • Stream: Science (PCM)</p>
                 </div>
                 <div className="border-l-2 border-purple-200 pl-3 sm:pl-4 py-1 sm:py-2 hover:border-purple-400">
                   <p className="font-semibold text-gray-800 text-base">Class X </p>
-                  <p className="text-gray-600">[Shashank Lal]</p>
+                  <p className="text-gray-600">Shashank Lal</p>
                   <p className="text-xs sm:text-sm text-gray-500 italic">Board: CBSE • Year: 2019</p>
                   <p className="text-xs sm:text-sm text-purple-600 font-medium mt-1">Percentage: 75%</p>
                 </div>
@@ -178,13 +178,7 @@ function About() {
                     <p className="text-xs sm:text-sm text-gray-600">Active member of college game development club</p>
                   </div>
                 </div>
-                <div className="flex items-start space-x-2 sm:space-x-3 bg-white rounded-lg p-2 sm:p-4 hover:shadow-md transition-shadow duration-300">
-                  <span className="text-xl sm:text-2xl">📖</span>
-                  <div>
-                    <p className="font-semibold text-gray-800">Open Source Contributor</p>
-                    <p className="text-xs sm:text-sm text-gray-600">Contributing to open-source projects on GitHub or small projects in JS</p>
-                  </div>
-                </div>
+                
                 <div className="flex items-start space-x-2 sm:space-x-3 bg-white rounded-lg p-2 sm:p-4 hover:shadow-md transition-shadow duration-300">
                   <span className="text-xl sm:text-2xl">🎤</span>
                   <div>
